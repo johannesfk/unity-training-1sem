@@ -1,4 +1,4 @@
-# Unity exercises - 1st semester
+# Unity Training - 1st semester
 
 ## Setup for development
 
