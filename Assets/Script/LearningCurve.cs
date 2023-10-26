@@ -40,7 +40,9 @@ public class LearningCurve : MonoBehaviour
                 return b;
         }
     }
-
+    // Takes a string and an index and inserts the string at the index.
+    // Then it loops through the list and prints out each index and the names.
+    // If the name is the same as the name passed in, it prints out a greeting message.
     public void InsertAndFindPartyMember(string name, int index)
     {
         List<string> QuestPartyMembers = new List<string>()
